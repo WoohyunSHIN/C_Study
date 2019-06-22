@@ -1,6 +1,6 @@
 //
 //  main.c
-//  (5)Pointer
+//  6_Pointer
 //
 //  Created by WoohyunSHIN on 08/01/2019.
 //  Copyright © 2019 Woo. All rights reserved.

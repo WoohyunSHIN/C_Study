@@ -1,6 +1,6 @@
 //
 //  main.c
-//  (8)binding
+//  9_binding
 //
 //  Created by WoohyunSHIN on 15/01/2019.
 //  Copyright © 2019 Woo. All rights reserved.

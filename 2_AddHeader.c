@@ -1,6 +1,6 @@
 //
 //  main.c
-//  (2)AddHeader
+//  2_AddHeader
 //
 //  Created by WoohyunSHIN on 02/01/2019.
 //  Copyright © 2019 Woo. All rights reserved.

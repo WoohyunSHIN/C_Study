@@ -1,6 +1,6 @@
 //
 //  main.c
-//  (6)Structure
+//  7_Structure
 //
 //  Created by WoohyunSHIN on 10/01/2019.
 //  Copyright © 2019 Woo. All rights reserved.

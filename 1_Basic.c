@@ -1,6 +1,6 @@
 //
 //  main.c
-//  (1)Basic
+//  1_Basic
 //
 //  Created by WoohyunSHIN on 13/12/2018.
 //  Copyright © 2018 Woo. All rights reserved.

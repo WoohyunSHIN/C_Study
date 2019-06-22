@@ -1,6 +1,6 @@
 //
 //  main.c
-//  (7)Practice
+//  8_Practice
 //
 //  Created by WoohyunSHIN on 20/12/2018.
 //  Copyright © 2018 Woo. All rights reserved.

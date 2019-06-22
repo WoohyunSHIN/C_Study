@@ -1,6 +1,6 @@
 //
 //  main.c
-//  (3)function
+//  4_function
 //
 //  Created by WoohyunSHIN on 03/01/2019.
 //  Copyright © 2019 Woo. All rights reserved.
